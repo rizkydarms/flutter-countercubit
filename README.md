@@ -1,25 +1,26 @@
 ## Flutter-CounterCubit
 
 ### Example App
-![image](https://github.com/user-attachments/assets/c21ac511-1eb8-4c9e-b9f9-de298566a8ba)
 
-![image](https://github.com/user-attachments/assets/f19f0e26-1206-4310-8a48-3e763385f980)
+![image](https://github.com/user-attachments/assets/545dcea8-abd1-4a5e-b502-5b5b9c394586)
 
-![image](https://github.com/user-attachments/assets/837c2465-afe3-45b0-a3b3-5425e9ae8131)
+![image](https://github.com/user-attachments/assets/b08a829b-f377-4998-ad17-8f51e8cea121)
 
-![image](https://github.com/user-attachments/assets/408f284f-5abe-4886-956f-a38f01a21562)
+![image](https://github.com/user-attachments/assets/d7e651df-d69a-4c17-bc7e-bffe352783c7)
 
-![image](https://github.com/user-attachments/assets/7d3fc51e-8a2e-4378-801b-3debeb29443d)
+![image](https://github.com/user-attachments/assets/d153fb90-c7f7-4bee-9571-519cb181fa0d)
 
-![image](https://github.com/user-attachments/assets/4db9da4e-3d70-472b-b288-c17e42516e45)
+![image](https://github.com/user-attachments/assets/755edd6a-046f-4e4c-b4c7-bb20b2291ae9)
 
-![image](https://github.com/user-attachments/assets/31ffb7e9-145b-439b-beb7-d9c47a047af0)
+![image](https://github.com/user-attachments/assets/4d070e0d-bef9-4898-87e2-ff4196937ca6)
 
-![image](https://github.com/user-attachments/assets/8b1e3ed8-a349-4e0f-be2e-c34779cd8347)
+![image](https://github.com/user-attachments/assets/c29d9db3-4605-4cc8-861b-e3ff345ea5b4)
 
-![image](https://github.com/user-attachments/assets/273b30ac-11d7-4a76-8543-8c9748aef2ea)
+![image](https://github.com/user-attachments/assets/790d2946-91d1-4e6e-bcce-bce18bf433ba)
 
+![image](https://github.com/user-attachments/assets/15662f67-cb6e-4c1a-aa1a-38487b1694bc)
 
+![image](https://github.com/user-attachments/assets/a8a28a3e-ade4-4bcf-bb1b-4ac3c8777a58)
 
 
 
